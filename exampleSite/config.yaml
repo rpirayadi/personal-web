@@ -248,8 +248,9 @@ params:
           - Linear Algebra (20.0/20.0)
           - Engineering probability (19.6/20.0)
 
-          TA Experiences
-          - Computer Arcitecture 
+          # -
+          # TA Experiences
+          # - Computer Arcitecture
         featuredLink:
           enable: true
           name: "My academic record"
@@ -268,7 +269,7 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: selected for elite
+      - title: Google kickstart runner
         content: I solved all problems with optimal solution.
         url: https://example.com
       - title: Facebook Hackathon Winner
