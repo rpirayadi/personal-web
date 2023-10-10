@@ -121,7 +121,7 @@ params:
     title: "Rouzbeh Pirayadi."
     subtitle: ""
     content: "I am a computer engineering student in Sharif University of Technology"
-    image: /images/hero.svg
+    image: /images/rouzbeh.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -246,11 +246,10 @@ params:
           - Artificial Intelligence (20.0/20.0)
           - Machine Learning (20.0/20.0)
           - Linear Algebra (20.0/20.0)
-          - Face mask detection using a single convolutional neural network.
+          - Engineering probability (19.6/20.0)
 
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+          TA Experiences
+          - Computer Arcitecture 
         featuredLink:
           enable: true
           name: "My academic record"
@@ -269,7 +268,7 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Google kickstart runner
+      - title: selected for elite
         content: I solved all problems with optimal solution.
         url: https://example.com
       - title: Facebook Hackathon Winner
