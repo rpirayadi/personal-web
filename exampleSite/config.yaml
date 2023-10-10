@@ -152,14 +152,14 @@ params:
       I am currently working on a project that will be used to help people find the best way to get around the city.
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "Here are a few technologies I've worked with:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "Java"
+        - "Python"
+        - "Pytorch"
+        - "Torchhd"
+        - "Android"
+        - "Swift"
 
   # Experience
   experience:
@@ -239,8 +239,11 @@ params:
         date: "2019 - 2023"
         GPA: "19.73 out of 20.0"
         content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
+          Notable Courses
+          - Computer Architecture (20.0/20.0)
+          - Artificial Intelligence (20.0/20.0)
+          - Machine Learning (20.0/20.0)
+          - Linear Algebra (20.0/20.0)
           - Face mask detection using a single convolutional neural network.
 
           Extracurricular Activities
