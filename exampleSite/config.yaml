@@ -120,7 +120,7 @@ params:
     intro: "Hi, my name is"
     title: "Rouzbeh Pirayadi."
     subtitle: ""
-    content: "I am a computer engineering student in Sharif University of Technology"
+    content: "I am a computer engineering student in Sharif University of Technology."
     image: /images/rouzbeh.jpg
     bottomImage:
       enable: true
@@ -136,7 +136,7 @@ params:
         - icon: fab fa-github
           url: https://github.com/rpirayadi
         - icon: fa fa-envelope
-          url: https://mailto:rouzbehpirayadi@gmail.com
+          url: mailto:rouzbehpirayadi@gmail.com
       # customIcons:
       #   - icon: /fav.png
       #     url: "https://example.com"
@@ -147,10 +147,10 @@ params:
     title: "About Me"
     image: "/images/rouzbeh.jpg"
     content: |-
-      I received my deploma from Allameh Helli Highschool, and my Bachelors in Computer Engineering from Sharif University of Technology, the most prectigeous university in Iran.
+      I received my diploma from Allameh Helli High School, and my bachelors in Computer Engineering from Sharif University of Technology, the most prectigeous university in Iran.
+      I was ranked 5th among approximately 200 students.
 
-
-      I am interested in AI accelerators, process in memory thecniques, and other computer architecture related topics. 
+      I am interested in AI accelerators, process in memory techniques, and other computer architecture and AI related topics. 
 
     skills:
       enable: true
@@ -173,7 +173,7 @@ params:
       - title: "Bachelor of Science in Computer Engineering"
         school:
           name: "Sharif University of Technology"
-          url: "https://example.org"
+          url: "https://en.sharif.edu/"
         date: "2019 - 2023"
         GPA: "19.73 out of 20.0"
         content: |-
@@ -195,12 +195,13 @@ params:
         school:
           name: "Allameh Helli High School"
           url: "https://example.org"
+        date: "2016 - 2019"
         GPA: "19.93 out of 20.0"
         featuredLink:
           enable: true
           url: "https://example.com"
 
-          
+
   # Experience
   experience:
     enable: true
