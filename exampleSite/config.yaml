@@ -319,33 +319,33 @@ params:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
 
-      - title: Smart Pot
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
-        featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
-        badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+    #   - title: Smart Pot
+    #     content: A clean and simple Hugo template for personal portfolio and blog.
+    #     image: /images/projects/profile2.jpg
+    #     featured:
+    #       name: Demo V2
+    #       link: https://hugo-profile-2.netlify.app
+    #     badges:
+    #       - "Hugo"
+    #       - "Bootstrap"
+    #       - "Javascript"
+    #     links:
+    #       - icon: fab fa-github
+    #         url: https://github.com/gurusabarish/HugoProfileV2
 
-    - title: SecChat
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
-        featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
-        badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusaba
+    # - title: SecChat
+    #     content: A clean and simple Hugo template for personal portfolio and blog.
+    #     image: /images/projects/profile2.jpg
+    #     featured:
+    #       name: Demo V2
+    #       link: https://hugo-profile-2.netlify.app
+    #     badges:
+    #       - "Hugo"
+    #       - "Bootstrap"
+    #       - "Javascript"
+    #     links:
+    #       - icon: fab fa-github
+    #         url: https://github.com/gurusaba
 
   #Contact
   contact:
