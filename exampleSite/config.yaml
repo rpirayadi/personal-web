@@ -53,10 +53,10 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
-  description: Text about my cool site
+  title: "Rouzbeh Pirayadi"
+  description: Personal Infromation about me
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/fav.png"
+  favicon: "/logo.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -134,12 +134,12 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-twitter
-          url: https://example.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+          url: https://github.com/rpirayadi
+        - icon: fab fa-envelope
+          url: https://mailto:rouzbehpirayadi@gmail.com
+      # customIcons:
+      #   - icon: /fav.png
+      #     url: "https://example.com"
 
   # About
   about:
@@ -286,8 +286,8 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
+      - title: Online Shop
+        content: An instance of an online shope, with different features such as auctions, favarite products and shopping cart.
         image: /images/projects/profile.png
         featured:
           name: Demo
