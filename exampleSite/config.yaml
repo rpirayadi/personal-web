@@ -56,7 +56,7 @@ params:
   title: "Rouzbeh Pirayadi"
   description: Personal Infromation about me
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/logo.png"
+  favicon: "/logo2.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -135,7 +135,7 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-github
           url: https://github.com/rpirayadi
-        - icon: fab fa-envelope
+        - icon: fa fa-envelope
           url: https://mailto:rouzbehpirayadi@gmail.com
       # customIcons:
       #   - icon: /fav.png
@@ -145,11 +145,13 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "/images/rouzbeh.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
+      I received my deploma from Allameh Helli Highschool, and my Bachelors in Computer Engineering from Sharif University of Technology, the most prectigeous university in Iran.
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+
+      I am interested in AI accelerators, process in memory thecniques, and other computer architecture related topics. 
+
     skills:
       enable: true
       title: "Here are a few technologies I've worked with:"
@@ -164,20 +166,20 @@ params:
   # Experience
   experience:
     enable: true
-    # title: "Custom Name"
+    # title: "Research Experience"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
+      - job: "Process in DRAM in for hyperdimensional computing"
+        company: "Research Experience"
+        companyUrl: ""
         date: "Jan 2022 - present"
-        featuredLink:
-          enable: true
-          name: "View the project"
-          url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        # featuredLink:
+        #   enable: true
+        #   name: "View the project"
+        #   url: "https://example.com"
+        content: "I participated in a project"
 
-      - job: "Software Developer"
-        company: "Amazon"
+      - job: ""
+        company: "Working Experience"
         companyUrl: "https://example.com"
         date: "Sep 2020 - Dec 2021"
         featuredLink:
@@ -192,39 +194,39 @@ params:
           - Lead backend developer for a product.
           - Created a frontend design for a product.
 
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
-        info:
-          enable: false
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+      # - job: "Junior Software Developer"
+      #   company: "Apple"
+      #   companyUrl: "https://example.com"
+      #   date: "Jan 2020 - Aug 2020"
+      #   info:
+      #     enable: false
+      #   featuredLink:
+      #     enable: true
+      #     url: "https://example.com"
+      #   content: |
+      #     I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+      #     - Lead backend developer for a product.
+      #     - Created a frontend design for a product.
 
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+      # - job: "UI/UX Designer"
+      #   company: "Netflix"
+      #   companyUrl: "https://example.com"
+      #   date: "June 2017 - Nov 2019"
+      #   featuredLink:
+      #     enable: true
+      #     url: "https://example.com"
+      #   content: |
+      #     I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+      #     - Lead backend developer for a product.
+      #     - Created a frontend design for a product.
 
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+      # - job: "Product Designer"
+      #   company: "Google"
+      #   companyUrl: "https://example.com"
+      #   date: "Feb 2016 - Mar 2017"
+      #   content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
   # Education
   education:
