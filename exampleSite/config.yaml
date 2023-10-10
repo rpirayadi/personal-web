@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Rouzbeh Pirayadi"
 theme: hugo-profile
 
 outputs:
@@ -147,7 +147,7 @@ params:
     title: "About Me"
     image: "/images/rouzbeh.jpg"
     content: |-
-      I received my diploma from Allameh Helli High School, and my bachelors in Computer Engineering from Sharif University of Technology, the most prectigeous university in Iran.
+      I received my diploma in Mathematics and Physics major from Allameh Helli High School, and my bachelors in Computer Engineering from Sharif University of Technology, the most prestigieous university in Iran.
       I was ranked 5th among approximately 200 students.
 
       I am interested in AI accelerators, process in memory techniques, and other computer architecture and AI related topics. 
@@ -156,12 +156,16 @@ params:
       enable: true
       title: "Here are a few technologies I've worked with:"
       items:
-        - "Java"
         - "Python"
+        - "Java"
+        - "C/C++"
+        - "Verilog"
         - "Pytorch"
+        - "Scikit Learn"
         - "Torchhd"
         - "Android"
         - "Swift"
+        - "PostgreSQL"
 
 
   # Education
@@ -181,20 +185,37 @@ params:
           - Computer Architecture (20.0/20.0)
           - Artificial Intelligence (20.0/20.0)
           - Machine Learning (20.0/20.0)
+          - Operating Systems (20.0/20.0)
+          - Embedded Systems (20.0/20.0)
+          - Algorithm Design (20.0/20.0)
           - Linear Algebra (20.0/20.0)
-          - Engineering probability (19.6/20.0)
+          - Engineering Probability and Statistics (19.6/20.0)
 
-          # -
-          # TA Experiences
-          # - Computer Arcitecture
-        featuredLink:
-          enable: true
-          name: "My academic record"
-          url: "https://example.com"
+          -
+          TA Experiences
+            - Artificial Intelligence, Prof. Mohammad Hossein Rohban & spring 2023
+
+            - Embedded Systems, Prof. Mohsen Ansari & spring 2023 
+
+            - Linear Algebra, Prof. Hamid R. Rabiee/ Prof. Maryam Ramezani & spring 2023 
+
+            - Computer Structure \& language, Prof. Hossein Asadi & fall 2022 
+
+            - Embedded Systems, Prof. Mohsen Ansari & fall 2022 
+
+            - Linear Algebra, Prof. Hamid R. Rabiee/ Prof. Maryam Ramezani & fall 2022 
+
+            - Linear Algebra, Prof. Hamid R. Rabiee/ Prof. Maryam Ramezani & spring 2022 
+
+            - Logic Design, Prof. Laleh Arshadi & fall 2021 
+        # featuredLink:
+        #   enable: true
+        #   name: "My academic record"
+        #   url: "https://example.com"
       - title: "High School"
         school:
           name: "Allameh Helli High School"
-          url: "https://example.org"
+          url: ""
         date: "2016 - 2019"
         GPA: "19.93 out of 20.0"
         featuredLink:
