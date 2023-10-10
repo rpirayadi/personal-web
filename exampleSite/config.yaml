@@ -181,7 +181,14 @@ params:
         date: "2019 - 2023"
         GPA: "19.73 out of 20.0"
         content: |-
-          ### Notable Courses
+        | dfssfs | daadfsfs |
+        |--------|:--------:|
+        | sdfs   | fdfs     |
+          #### Notable Courses
+
+        -| dfssfs | daadfsfs |
+        -|--------|:--------:|
+        -| sdfs   | fdfs     |
           - |----------|:-------------:|------:|
           - |Computer Architecture| (20.0/20.0)|
           - Artificial Intelligence (20.0/20.0)
@@ -192,7 +199,7 @@ params:
           - Linear Algebra (20.0/20.0)
           - Engineering Probability and Statistics (19.6/20.0)
 
-          ### TA Experiences
+          #### TA Experiences
           - Artificial Intelligence, Prof. Mohammad Hossein Rohban    (spring 2023)
 
           - Embedded Systems, Prof. Mohsen Ansari                     (spring 2023)
