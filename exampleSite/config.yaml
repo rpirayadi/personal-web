@@ -229,9 +229,12 @@ params:
           url: ""
         date: "2016 - 2019"
         GPA: "19.93 out of 20.0"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+        content: |-
+          Allameh Helli Schools, named after Al-Hilli, are schools found in various cities of Iran as part of the National Organization for Development of Exceptional Talents.
+
+        # featuredLink:
+        #   enable: true
+        #   url: "https://example.com"
 
 
   # Experience
