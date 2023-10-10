@@ -181,17 +181,9 @@ params:
         date: "2019 - 2023"
         GPA: "19.73 out of 20.0"
         content: |-
-        | dfssfs | daadfsfs |
-        |--------|:--------:|
-        | sdfs   | fdfs     |
           #### Notable Courses
-
-        -| dfssfs | daadfsfs |
-        -|--------|:--------:|
-        -| sdfs   | fdfs     |
-          - |----------|:-------------:|------:|
-          - |Computer Architecture| (20.0/20.0)|
-          - Artificial Intelligence (20.0/20.0)
+          - Computer Architecture  &ensp; (20.0/20.0)
+          - Artificial Intelligence &ensp; (20.0/20.0)
           - Machine Learning (20.0/20.0)
           - Operating Systems (20.0/20.0)
           - Embedded Systems (20.0/20.0)
