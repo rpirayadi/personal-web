@@ -182,7 +182,8 @@ params:
         GPA: "19.73 out of 20.0"
         content: |-
           ### Notable Courses
-          - Computer Architecture (20.0/20.0)
+          - |----------|:-------------:|------:|
+          - |Computer Architecture| (20.0/20.0)|
           - Artificial Intelligence (20.0/20.0)
           - Machine Learning (20.0/20.0)
           - Operating Systems (20.0/20.0)
@@ -191,23 +192,22 @@ params:
           - Linear Algebra (20.0/20.0)
           - Engineering Probability and Statistics (19.6/20.0)
 
-          |-
           ### TA Experiences
-            - Artificial Intelligence, Prof. Mohammad Hossein Rohban    (spring 2023)
+          - Artificial Intelligence, Prof. Mohammad Hossein Rohban    (spring 2023)
 
-            - Embedded Systems, Prof. Mohsen Ansari                     (spring 2023)
+          - Embedded Systems, Prof. Mohsen Ansari                     (spring 2023)
 
-            - Linear Algebra, Prof. Hamid R. Rabiee/ Prof. Maryam Ramezani & spring 2023 
+          - Linear Algebra, Prof. Hamid R. Rabiee/ Prof. Maryam Ramezani & spring 2023 
 
-            - Computer Structure \& language, Prof. Hossein Asadi & fall 2022 
+          - Computer Structure \& language, Prof. Hossein Asadi & fall 2022 
 
-            - Embedded Systems, Prof. Mohsen Ansari & fall 2022 
+          - Embedded Systems, Prof. Mohsen Ansari & fall 2022 
 
-            - Linear Algebra, Prof. Hamid R. Rabiee/ Prof. Maryam Ramezani & fall 2022 
+          - Linear Algebra, Prof. Hamid R. Rabiee/ Prof. Maryam Ramezani & fall 2022 
 
-            - Linear Algebra, Prof. Hamid R. Rabiee/ Prof. Maryam Ramezani & spring 2022 
+          - Linear Algebra, Prof. Hamid R. Rabiee/ Prof. Maryam Ramezani & spring 2022 
 
-            - Logic Design, Prof. Laleh Arshadi & fall 2021 
+          - Logic Design, Prof. Laleh Arshadi & fall 2021 
         # featuredLink:
         #   enable: true
         #   name: "My academic record"
