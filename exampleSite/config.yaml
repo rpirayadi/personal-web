@@ -119,8 +119,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Rouzbeh Pirayadi."
-    subtitle: "I am a computer engineering student in Sharif University of Technology"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    subtitle: ""
+    content: "I am a computer engineering student in Sharif University of Technology"
     image: /images/hero.svg
     bottomImage:
       enable: true
@@ -232,22 +232,12 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "Bachelor of Science in Computer Engineering"
         school:
-          name: "University of California, Berkeley"
+          name: "Sharif University of Technology"
           url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
-        content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
-        school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
+        date: "2019 - 2023"
+        GPA: "19.73 out of 20.0"
         content: |-
           I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
           - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
@@ -277,14 +267,11 @@ params:
       - title: Google kickstart runner
         content: I solved all problems with optimal solution.
         url: https://example.com
-        image: /images/achievment.jpg
       - title: Facebook Hackathon Winner
         content: Developed a product using Artificial Intelligence.
-        image: /images/achievment.jpg
       - title: Hugo Profile
         content: Developed a theme and getting 1K+ downloads per month.
         url: "https://github.com/gurusabarish/hugo-profile"
-        image: /images/achievment.jpg
       - title: Microsoft Imagine Runner
         content: We are developed a product which can help others.
       - title: Google Summer of Code
