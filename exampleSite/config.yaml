@@ -260,8 +260,7 @@ params:
         # featuredLink:
         #   enable: true
         #   url: "https://example.com"
-
-        content: I worked as a software developer for my internship program at Onyxlab.
+        content: "I worked as a software developer for my internship program at Onyxlab."
         
         # info:
         #   enable: true
