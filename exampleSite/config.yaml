@@ -394,9 +394,7 @@ params:
             url: https://github.com/gurusabarish/converter
 
       - title: Sec Chat
-        content: A program that enables chating between clients and satisfies many security requirments. Namely, the application satisfies
-            forward and backward secrecy, confidentiality, end-to-end encrypted message.
-
+        content: A program that enables chating between clients and satisfies many security requirments. Namely, the application satisfies forward and backward secrecy, confidentiality, end-to-end encrypted message.
         image: /images/projects/converter.jpg
         featured:
           name: Demo
