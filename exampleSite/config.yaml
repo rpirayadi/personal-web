@@ -334,7 +334,7 @@ params:
     items:
       - title: Matmul
         content: A verilog simulation of a matrix multiplier which devides matrices into smaller blocks. Smaller blocks' result is 
-                  calculated using a combinational circuit. Then the whole result is calculated sequationally.
+                  calculated using a combinational circuit. Then the whole result is calculated sequentially.
         image: /images/projects/converter.jpg
         # featured:
         #   name: Demo
@@ -351,12 +351,12 @@ params:
         content: An instance of an online shope, with different features such as auctions, favorite products and shopping cart.
         image: /images/projects/profile.png
         featured:
-          name: Demo
+          name: Demo Video
           link: https://hugo-profile.netlify.app
         badges:
           - "Java"
           - "Javafx"
-          - "Javascript"
+
         links:
           # - icon: fa fa-envelope
           #   url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
@@ -366,20 +366,22 @@ params:
           #   url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
       - title: TimeSync
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
+        content: An android app to manage meeting and teams. Meetings could be created by admins and people in the group can vote for the time.
         image: /images/projects/converter.jpg
-        featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
+        # featured:
+        #   name: Demo
+        #   link: https://django-converter.herokuapp.com
         badges:
-          - "Django"
-          - "Bootstrap"
+          - "Android"
+          - "Java"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
 
       - title: Smart Pot
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
+        content: A web app and mobile app created by flutter that connects to an embedded system in a pot. This systems monitors 
+            the temperature, humidity and water level and visualizes them for the user.
+
         image: /images/projects/converter.jpg
         featured:
           name: Demo
