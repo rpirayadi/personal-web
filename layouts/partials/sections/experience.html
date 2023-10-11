@@ -45,7 +45,7 @@
                             class="tab-pane fade show active bg-transparent" 
                             role="tabpanel"
                             id='pills-{{ replace .company " " "-" }}-{{ replace .date " " "-" }}'
-                            aria-labelledby='pills-{{ replace .company " " "-" }}-{{ replace .date " " "-" }}-tab'
+                            aria-labelledby='pills-{{ replace .company}}-{{ replace .date}}-tab'
                         >
                             <div>
                                 <span class="h4">{{ .job }}</span>
@@ -83,7 +83,7 @@
                             class="tab-pane fade bg-transparent" 
                             role="tabpanel"
                             id='pills-{{ replace .company " " "-" }}-{{ replace .date " " "-" }}'
-                            aria-labelledby='pills-{{ replace .company " " "-" }}-{{ replace .date " " "-" }}-tab'
+                            aria-labelledby='pills-{{ replace .company}}-{{ replace .date}}-tab'
                         >
                             <div>
                                 <span class="h4">{{ .job }}</span>
