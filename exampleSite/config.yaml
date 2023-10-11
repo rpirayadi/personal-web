@@ -396,12 +396,14 @@ params:
       - title: Sec Chat
         content: A program that enables chating between clients and satisfies many security requirments. Namely, the application satisfies
             forward and backward secrecy, confidentiality, end-to-end encrypted message.
+
         image: /images/projects/converter.jpg
-        # featured:
-        #   name: Demo
-        #   link: https://django-converter.herokuapp.com
+        featured:
+          name: Demo
+          link: https://django-converter.herokuapp.com
         badges:
-          - "Python"
+          - "Django"
+          - "Bootstrap"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
