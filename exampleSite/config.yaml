@@ -333,19 +333,20 @@ params:
     # title: "Custom Name"
     items:
       - title: Matmul
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
+        content: A verilog simulation of a matrix multiplier which devides matrices into smaller blocks. Smaller blocks' result is 
+        calculated using a combinational circuit. Then the whole result is calculated sequationally.
         image: /images/projects/converter.jpg
-        featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
+        # featured:
+        #   name: Demo
+        #   link: https://django-converter.herokuapp.com
         badges:
-          - "Django"
-          - "Bootstrap"
+          - "Verilog"
+          - "Xilinx"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
 
-            
+
       - title: Online Shop
         content: An instance of an online shope, with different features such as auctions, favorite products and shopping cart.
         image: /images/projects/profile.png
