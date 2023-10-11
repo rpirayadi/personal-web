@@ -334,7 +334,7 @@ params:
     items:
       - title: Matmul
         content: A verilog simulation of a matrix multiplier which devides matrices into smaller blocks. Smaller blocks' result is 
-        calculated using a combinational circuit. Then the whole result is calculated sequationally.
+                  calculated using a combinational circuit. Then the whole result is calculated sequationally.
         image: /images/projects/converter.jpg
         # featured:
         #   name: Demo
