@@ -28,7 +28,7 @@
                                 aria-selected="true" 
                                 role="tab" 
                                 data-bs-toggle="pill"
-                                id='{{ replace .company " " "-" }}-{{ replace .date " " "-" }}-tab'
+                                id='{{ replace .company " " "-" }}-{{ replace .date " " "-" }}'
                                 data-bs-target='#pills-{{ replace .company " " "-" }}-{{ replace .date " " "-" }}' 
                                 aria-controls='{{ replace .company " " "-" }}-{{ replace .date " " "-" }}'
                             >
@@ -45,7 +45,7 @@
                             class="tab-pane fade show active bg-transparent" 
                             role="tabpanel"
                             id='pills-{{ replace .company " " "-" }}-{{ replace .date " " "-" }}'
-                            aria-labelledby='pills-{{ replace .company " " "-" }}-{{ replace .date " " "-" }}-tab'
+                            aria-labelledby='pills-{{ replace .company " " "-" }}-{{ replace .date " " "-" }}'
                         >
                             <div>
                                 <span class="h4">{{ .job }}</span>
@@ -61,7 +61,7 @@
                                             data-bs-placement="top" 
                                             data-bs-original-title={{ .info.content | default (print "Working as a " .job " at " .company ) }}
                                         >
-                                            <i class="fas fa-info-circle fa-xs"></i>
+                                            <!-- <i class="fas fa-info-circle fa-xs"></i> -->
                                         </span>
                                     </span>
                                     {{ end }}
@@ -100,7 +100,7 @@
                                             data-bs-placement="top" 
                                             data-bs-original-title={{ .info.content | default (print "Worked as a " .job " at " .company ) }}
                                         > 
-                                            <i class="fas fa-info-circle fa-xs"></i>
+                                            <!-- <i class="fas fa-info-circle fa-xs"></i> -->
                                         </span>
                                     </span>
                                     {{ end }}
