@@ -242,6 +242,8 @@ params:
   experience:
     enable: true
     # title: "Research Experience"
+    info:
+      - enable: false
     items:
       - job: "Process in DRAM for hyperdimensional computing"
         company: "Research Experience"
