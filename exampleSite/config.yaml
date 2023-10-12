@@ -375,7 +375,7 @@ params:
 
       - title: TimeSync
         content: An android app to manage meeting and teams. Meetings could be created by admins and people in the group can vote for the time.
-        image: /images/projects/TimeSync.jpg
+        image: /images/projects/Time2.png
         # featured:
         #   name: Demo
         #   link: https://django-converter.herokuapp.com
@@ -390,7 +390,7 @@ params:
         content: A web app and mobile app created by flutter that connects to an embedded system in a pot. This systems monitors 
             the temperature, humidity and water level and visualizes them for the user.
 
-        image: /images/projects/converter.jpg
+        image: /images/projects/pot.png
         featured:
           name: Demo
           link: https://django-converter.herokuapp.com
