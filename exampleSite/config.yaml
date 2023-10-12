@@ -393,20 +393,20 @@ params:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
 
-      # - title: Sec Chat
-      #   content: A program that enables chating between clients and satisfies many security requirments. Namely, the application satisfies forward and backward secrecy, confidentiality, end-to-end encrypted message.
-      #   image: /images/projects/converter.jpg
-      #   featured:
-      #     name: Demo
-      #     link: https://django-converter.herokuapp.com
-      #   badges:
-      #     - "Django"
-      #     - "Bootstrap"
-      #   links:
-      #     - icon: fab fa-github
-      #       url: https://github.com/gurusabarish/converter
+      - title: Sec Chat
+        content: A program that enables chating between clients and satisfies many security requirments. Namely, the application satisfies forward and backward secrecy, confidentiality, end-to-end encrypted message.
+        image: /images/projects/converter.jpg
+        featured:
+          name: Demo
+          link: https://django-converter.herokuapp.com
+        badges:
+          - "Django"
+          - "Bootstrap"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/gurusabarish/converter
 
-        - title: Shrive
+      - title: Shrive
         content: A web application similar to google drive. This application provides file storing, folder mangement, categories and file sharing
           between different users.
         image: /images/projects/converter.jpg
@@ -419,7 +419,7 @@ params:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
 
-        - title: MIPS
+      - title: MIPS
         content: Simulating a mips-like processor using shematic section of quartus. The memory is simulated using verilog.
         image: /images/projects/converter.jpg
         # featured:
