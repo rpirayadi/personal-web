@@ -375,7 +375,7 @@ params:
 
       - title: TimeSync
         content: An android app to manage meeting and teams. Meetings could be created by admins and people in the group can vote for the time.
-        image: /images/projects/converter.jpg
+        image: /images/projects/TimeSync.jpg
         # featured:
         #   name: Demo
         #   link: https://django-converter.herokuapp.com
