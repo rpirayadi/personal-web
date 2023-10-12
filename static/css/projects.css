@@ -45,14 +45,14 @@
 }
 
 #projects .card:hover .card-img-top {
-    /* transform: scale(1.2); */
-    height: 10rem;
-    width: 15rem;
+    transform: scale(1.2);
     transition: all 0.3s ease-out;
 }
 
 #projects .card-img-top {
     transition: transform 0.3s;
+    height: 12rem;
+    width: 22rem;
 }
 
 #projects .float-end .btn {
