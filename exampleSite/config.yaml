@@ -327,6 +327,19 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      - title: MIPS
+        content: Simulating a minimal mips-like processor using schematic section of quartus. The memory is simulated using verilog and waveforms have been extracted.
+        image: /images/projects/mips.png
+        # featured:
+        #   name: Demo
+        #   link: https://django-converter.herokuapp.com
+        badges:
+          - "Quartus"
+          - "Verilog"
+        # links:
+        #   - icon: fab fa-github
+        #     url: https://github.com/gurusabarish/converter
+
       - title: Matmul
         content: A verilog simulation of a matrix multiplier which devides matrices into smaller blocks. Smaller blocks' result is 
                   calculated using a combinational circuit. Then the whole result is calculated sequentially.
@@ -414,18 +427,7 @@ params:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
 
-      - title: MIPS
-        content: Simulating a mips-like processor using shematic section of quartus. The memory is simulated using verilog.
-        image: /images/projects/converter.jpg
-        # featured:
-        #   name: Demo
-        #   link: https://django-converter.herokuapp.com
-        badges:
-          - "Quartus"
-          - "Verilog"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+
 
 
 
