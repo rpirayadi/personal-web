@@ -402,11 +402,13 @@ params:
             url: https://github.com/gurusabarish/converter
 
       - title: Sec Chat
-        content: A program that enables chating between clients and satisfies many security requirments. Namely, the application satisfies forward and backward secrecy, confidentiality, end-to-end encrypted message.
-        image: /images/projects/converter.jpg
-        featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
+        content: A program that enables chating between clients and satisfies many security requirments. 
+            Namely, the application satisfies forward and backward secrecy, confidentiality, end-to-end encrypted message.
+            In order to do so, double ratchet algorithm is utilized.
+        image: /images/projects/ratchet.svg
+        # featured:
+        #   name: Demo
+        #   link: https://django-converter.herokuapp.com
         badges:
           - "Django"
           - "Bootstrap"
@@ -417,7 +419,7 @@ params:
       - title: Shrive
         content: A web application similar to google drive. This application provides file storing, folder mangement, categories and file sharing
           between different users.
-        image: /images/projects/converter.jpg
+        image: /images/projects/shrive.png
         # featured:
         #   name: Demo
         #   link: https://django-converter.herokuapp.com
