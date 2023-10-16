@@ -122,14 +122,14 @@ params:
     title: "Rouzbeh Pirayadi."
     subtitle: ""
     content: "I am a computer engineering student in Sharif University of Technology."
-    image: /images/rouzbeh4.jpg
+    image: /images/rouzbeh.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
       name: "Resume"
-      url: "./CV_Rouzbeh_Pirayadi"
+      url: "https://drive.google.com/file/d/1hrLKmJvPnqY1i3drWt5-8EKn81nu4TYT/view?usp=sharing"
       download: true
       newPage: false
     socialLinks:
@@ -146,7 +146,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/rouzbeh.jpg"
+    image: "/images/rouzbeh4.jpg"
     content: |-
       I received my diploma in Mathematics and Physics major from Allameh Helli High School, and my bachelors in Computer Engineering from Sharif University of Technology, the most prestigieous university in Iran.
       I was ranked 5th among approximately 200 students.
@@ -358,9 +358,9 @@ params:
       - title: Online Shop
         content: An instance of an online shop, with different features such as sale, auctions, filtering, favorite products and shopping cart.
         image: /images/projects/shop.png
-        featured:
-          name: Demo Video
-          link: https://hugo-profile.netlify.app
+        # featured:
+        #   name: Demo Video
+        #   link: https://www.aparat.com/v/A5sWo
         badges:
           - "Java"
           - "Javafx"
@@ -400,9 +400,9 @@ params:
           - "Raspberry pi"
           - "Arduino"
           - "Django"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+        # links:
+          # - icon: fab fa-github
+          #   url: https://github.com/gurusabarish/converter
 
       - title: Sec Chat
         content: A program that enables chating between clients and satisfies many security requirments. 
@@ -455,6 +455,8 @@ params:
         #   link: https://django-converter.herokuapp.com
         badges:
           - "Python"
+          - "C"
+          - "Http"
         links:
           - icon: fab fa-github
             url: https://github.com/rpirayadi/OS-proj
