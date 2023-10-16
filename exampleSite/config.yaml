@@ -122,7 +122,7 @@ params:
     title: "Rouzbeh Pirayadi."
     subtitle: ""
     content: "I am a computer engineering student in Sharif University of Technology."
-    image: /images/rouzbeh.jpg
+    image: /images/rouzbeh2.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -155,14 +155,14 @@ params:
 
     skills:
       enable: true
-      title: "Here are a few technologies I've worked with:"
+      title: "Here are a few tools and technologies I've worked with:"
       items:
         - "Python"
         - "Java"
         - "C/C++"
         - "Verilog"
         - "Pytorch"
-        - "Scikit Learn"
+        - "Xilinx"
         - "Torchhd"
         - "Android"
         - "Swift"
