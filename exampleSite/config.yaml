@@ -183,8 +183,8 @@ params:
         GPA: "19.73 out of 20.0"
         content: |-
           #### Notable Courses
-          - Computer Architecture  &ensp; (20.0/20.0)
-          - Artificial Intelligence &ensp; (20.0/20.0)
+          - Computer Architecture (20.0/20.0)
+          - Artificial Intelligence (20.0/20.0)
           - Machine Learning (20.0/20.0)
           - Digital Systems Design (20.0/20.0)
           - Operating Systems (20.0/20.0)
@@ -336,9 +336,9 @@ params:
         badges:
           - "Quartus"
           - "Verilog"
-        # links:
-        #   - icon: fab fa-github
-        #     url: https://github.com/gurusabarish/converter
+        links:
+          - icon: fab fa-github
+            url: https://github.com/rpirayadi/MIPS
 
       - title: Matmul
         content: A verilog simulation of a matrix multiplier which devides matrices into smaller blocks. Smaller blocks' result is 
@@ -364,12 +364,14 @@ params:
         badges:
           - "Java"
           - "Javafx"
+          - "SQLite"
+          - "Maven"
 
         links:
           # - icon: fa fa-envelope
           #   url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
+            url: https://github.com/AdvProg2020/Project_team-34
           # - icon: fab fa-twitter
           #   url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
@@ -384,7 +386,7 @@ params:
           - "Java"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+            url: https://github.com/s0heil20/TimeSync
 
       - title: Smart Pot
         content: A web app and mobile app created by flutter that connects to an embedded system in a pot. This systems monitors 
@@ -395,8 +397,9 @@ params:
           name: Demo
           link: https://django-converter.herokuapp.com
         badges:
+          - "Raspberry pi"
+          - "Arduino"
           - "Django"
-          - "Bootstrap"
         links:
           - icon: fab fa-github
             url: https://github.com/gurusabarish/converter
@@ -410,11 +413,11 @@ params:
         #   name: Demo
         #   link: https://django-converter.herokuapp.com
         badges:
-          - "Django"
-          - "Bootstrap"
+          - "Python"
+          - "Crypto"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+            url: https://github.com/AryanAhadinia/SecChat
 
       - title: Shrive
         content: A web application similar to google drive. This application provides file storing, folder mangement, categories and file sharing
@@ -425,9 +428,36 @@ params:
         #   link: https://django-converter.herokuapp.com
         badges:
           - "Python"
+          - "Django"
+          - "html"
+          - "css"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+            url: https://github.com/sudoparsa/content-management-system
+
+      - title: Queue Simulator
+        content: A program that simulates an M/M/1 queue and calculates many parameters such as average queue length, average waiting time and etc.
+        image: /images/projects/mm1.png
+        # featured:
+        #   name: Demo
+        #   link: https://django-converter.herokuapp.com
+        badges:
+          - "Python"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/rpirayadi/Queue-Simulation
+
+      - title: Multi-threaded web server
+        content: A web server that handles each client in a seperated thread.
+        image: /images/projects/Multiserver.png
+        # featured:
+        #   name: Demo
+        #   link: https://django-converter.herokuapp.com
+        badges:
+          - "Python"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/rpirayadi/OS-proj
 
 
 
