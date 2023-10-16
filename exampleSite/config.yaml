@@ -122,14 +122,14 @@ params:
     title: "Rouzbeh Pirayadi."
     subtitle: ""
     content: "I am a computer engineering student in Sharif University of Technology."
-    image: /images/rouzbeh2.jpg
+    image: /images/rouzbeh3.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "./CV_Rouzbeh_Pirayadi"
       download: true
       newPage: false
     socialLinks:
