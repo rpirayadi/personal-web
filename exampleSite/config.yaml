@@ -129,7 +129,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "./static/fav.png"
+      url: "/Rouzbeh_Pirayadi_CV.pdf"
       download: true
       newPage: false
     socialLinks:
