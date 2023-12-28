@@ -129,7 +129,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "/exampleSite/static/fav.png"
+      url: "./static/fav.png"
       download: true
       newPage: false
     socialLinks:
